@@ -1,6 +1,6 @@
 # Consulta de Encomendas com Chatbot - Testes Cypress
 
-![Image](https://github.com/user-attachments/assets/57e6c9ab-0eb2-4321-9f34-87891a1b2f7b)
+![Image](https://github.com/user-attachments/assets/3705a04d-d278-4489-a54e-c50acbffc37f)
 _Bem-vindo ao repositório do projeto **Consulta de Encomendas com Chatbot**! Este projeto utiliza o **Cypress** para realizar testes end-to-end da funcionalidade de consulta de encomendas por meio de um chatbot integrado à aplicação **WebDojo**._
 
 ## Sobre o Projeto
